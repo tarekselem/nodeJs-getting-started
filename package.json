@@ -1,0 +1,22 @@
+{
+    "name": "nodeJs-getting-started",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.2",
+        "lodash": "^4.17.4",
+        "nodeman": "^1.1.2"
+    },
+    "devDependencies": {
+        "nodemon": "^1.12.1"
+    }
+}
